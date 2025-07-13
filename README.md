@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m someone who enjoys exploring the world of technology, especially programming and software development. 
+I have a strong interest in GitHub and love learning different computer languages to build and share projects. 
+I’m always curious about how things work behind the scenes and eager to improve my coding skills through hands-on experience.
+
 <!--
 **jherzog002/jherzog002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
